@@ -1,7 +1,7 @@
 object @user
 cache
-cache ["timepass", "1", @user]
-cache ["timepass", "2", @user]
+# cache ["timepass", "1", @user]
+# cache ["timepass", "2", @user]
 
 
 attributes :name
